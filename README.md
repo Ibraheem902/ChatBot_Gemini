@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # DRF Gemini Chatbot
 
 A Django + React chatbot scaffold powered by the Google Gemini API.
@@ -59,3 +60,6 @@ npm run dev
 - The default Gemini model is configurable through `GEMINI_MODEL`.
 - The scaffold keeps conversation history in the database and only sends the recent transcript to Gemini.
 - For production, swap SQLite for PostgreSQL and place secrets in your deployment environment.
+=======
+# ChatBot_Gemini
+>>>>>>> 20c1d68a51476e13d8854431fa3b9beaa8e26dff
